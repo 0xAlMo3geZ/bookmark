@@ -18,4 +18,4 @@ Run Tailwind CLI
 npm run watch
 ```
 
-![Alt text](images/bookmark.png)
+![](images/bookmark.png)
