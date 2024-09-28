@@ -18,4 +18,4 @@ Run Tailwind CLI
 npm run watch
 ```
 
-![](images/bookmark.png)
+<img src="images/bookmark.png" />
